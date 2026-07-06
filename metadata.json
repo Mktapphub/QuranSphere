@@ -1,0 +1,8 @@
+{
+  "name": "QuranSphere",
+  "description": "A clean, minimalist, and responsive Quran web application",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_"
+  ]
+}
